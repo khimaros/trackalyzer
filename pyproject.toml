@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "trackalyzer"
-version = "0.1.0"
+version = "0.1.2"
 description = "identify visited points of interest in GPX tracks"
 authors = ["khimaros <me@khimaros.com>"]
 license = "GPL-3.0-or-later"
@@ -8,6 +8,8 @@ license = "GPL-3.0-or-later"
 [tool.poetry.dependencies]
 python = "^3.9"
 gpxpy = "^1.4.2"
+folium = "^0.12.1"
+click = "^8.0.1"
 
 [tool.poetry.dev-dependencies]
 
