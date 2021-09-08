@@ -2,6 +2,8 @@
 
 identify visited points of interest in GPX tracks
 
+![screenshot with points of interest](screenshot-poi.png)
+
 ## usage
 
 ### install
