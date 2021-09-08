@@ -1,9 +1,6 @@
 import trackalyzer
 
-import sys
-
 import click
-import gpxpy
 
 
 @click.group()
